@@ -1,0 +1,6 @@
+
+	Claves generadas [NO COMPARTIR] : 
+
+	Clave publica para cifrar: 211
+	Clave privada para descifrar: 347
+	Modulo publico para cifrar/descifrar: 391
